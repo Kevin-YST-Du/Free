@@ -1,4 +1,4 @@
-name: SSH over Tailscale (Root Access)
+name: RDP-Ubuntu
 
 on:
   workflow_dispatch:
